@@ -1,0 +1,21 @@
+.play:hover {
+    background-color: rgb(74, 148, 14);
+}
+
+.pause:hover {
+    background-color: rgb(148, 14, 141);
+}
+
+.linkbtn a {
+    text-decoration: none;
+}
+
+#playdiv{
+   margin-left: 10%;
+}
+.clickbtn a{
+    display: block;
+}
+.clickbtn:hover a{
+    background-color: tomato;
+}
